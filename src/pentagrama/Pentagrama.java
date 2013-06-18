@@ -16,6 +16,7 @@ public class Pentagrama {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("hola mundo java...");
+        System.out.println("actualizando, para comprobar git...");
     }
     
 }
